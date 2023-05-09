@@ -1,3 +1,94 @@
+# Road Accident Analysis in UK
+
+This repository contains a Power BI project that focuses on analyzing road accidents in the UK. The project aims to provide valuable insights and visualizations to understand various aspects related to road accidents. The dataset used for this analysis includes information such as accident date, accident severity, vehicle type, road type, casualties, and other relevant attributes.
+
+## Screenshots
+
+![Total Casualties and Total Accidents](./screenshots/total_casualties_accidents.png)
+
+## Structure
+
+The project is structured into the following sections:
+
+1. Data Cleaning
+2. Data Modelling
+3. Data Visualization
+
+## Data Cleaning
+
+In the data cleaning phase, we performed the following steps:
+
+- Imported the provided CSV data into Power BI and created a table named "Data".
+- Renamed the table as "Data" to better reflect its content.
+
+## Data Modelling
+
+For data modelling, we created the following additional table:
+
+- **Calendar**: This table contains columns for Date, Year, Month, and Month Number.
+
+We established a one-to-many relationship between the "Calendar" table and the "Data" table based on the date.
+
+## Data Visualization
+
+Now let's explore the visualizations for the seven problem statements:
+
+### 1. Primary KPI – Total Casualties and Total Accidents values for Current Year and YoY growth.
+
+![Total Casualties and Total Accidents](./screenshots/total_casualties_accidents.png)
+
+This line chart provides an overview of the total casualties and total accidents for the current year, along with their year-over-year (YoY) growth. It helps to identify trends and understand the impact of road accidents.
+
+### 2. Primary KPI – Total Casualties by Accident Severity for Current Year and YoY growth.
+
+![Total Casualties by Accident Severity](./screenshots/casualties_by_severity.png)
+
+This stacked column chart illustrates the distribution of total casualties by accident severity for the current year. It also shows the YoY growth, providing insights into changes compared to the previous year.
+
+### 3. Secondary KPI’s – Total Casualties with respect to vehicle type for Current Year.
+
+![Total Casualties by Vehicle Type](./screenshots/casualties_by_vehicle_type.png)
+
+This bar chart displays the total casualties categorized by vehicle type for the current year. It helps to identify which vehicle types are involved in the most accidents.
+
+### 4. Monthly trend showing comparison of casualties for Current Year and Previous Year.
+
+![Monthly Casualties Comparison](./screenshots/monthly_casualties_comparison.png)
+
+This line chart compares the monthly casualties for the current year and the previous year. It allows us to analyze the variations in casualties over time.
+
+### 5. Casualties by Road Type for Current Year.
+
+![Casualties by Road Type](./screenshots/casualties_by_road_type.png)
+
+This donut chart presents the distribution of casualties by road type for the current year. It provides insights into which types of roads are associated with higher accident rates.
+
+### 6. Current Year Casualties by Area/Location & by Day/Night.
+
+![Casualties by Area/Location & Day/Night](./screenshots/casualties_by_location_day_night.png)
+
+This stacked column chart showcases the current year's casualties categorized by area/location and further differentiated by day and night. It helps in understanding the patterns of accidents based on different areas and time periods.
+
+### 7. Total Casualties and Total Accidents by Location.
+
+![Total Casualties and Total Accidents by Location](./screenshots/casualties_accidents_by_location.png)
+
+This map visualization displays the total casualties and total accidents by location in the UK. It provides a visual representation of the distribution of accidents and casualties across different geographic areas.
+
+## Conclusion
+The "Road Accident Analysis in UK" Power BI project provides valuable insights into road accidents in the UK. Through data cleaning, modeling, and visualization, we have addressed the seven problem statements related to casualties, accidents, accident severity, vehicle types, monthly trends, road types, and location-based analysis.
+
+The visualizations help in understanding the current year's data, year-over-year growth, and comparisons between different variables. These insights can be utilized to make informed decisions and take necessary measures to improve road safety.
+
+Feel free to explore the code and screenshots provided in this repository to gain a better understanding of the analysis conducted in the "Road Accident Analysis in UK" Power BI project.
+
+
+
+
+
+
+
+
 # UK Road Analysis Power BI Project
 
 ![UK Road Analysis Power BI](https://github.com/Apurv-Here/Accident_Analysis_Power_BI/blob/main/images/power_bi_logo.png)
