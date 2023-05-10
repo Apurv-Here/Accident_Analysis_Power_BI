@@ -13,10 +13,10 @@ This repository contains a Power BI project that focuses on analyzing road accid
 ### Interactive and changing dashboard with filters 
 
 ### When the road is dry
-![dry road](Readme\Images\UK_Images\When_the_road_is_dry.png)
+![dry road](Readme/Images/UK_Images/When_the_road_is_dry.png)
 
 ### When the road is wet
-![wet road](Readme\Images\UK_Images\When_the_road_is_wet.png)
+![wet road](Readme/Images/UK_Images/When_the_road_is_wet.png)
 
 ### When the weather is rainy
 ![rainy season](Readme\Images\UK_Images\When_the_weather_is_rainy.png)
