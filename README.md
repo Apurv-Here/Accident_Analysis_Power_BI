@@ -13,21 +13,21 @@ This repository contains a Power BI project that focuses on analyzing road accid
 ### Interactive and changing dashboard with filters 
 
 ### When the road is dry
-![dry road](Readme\Images\UK_Images\When the road is dry.png)
+![dry road](Readme\Images\UK_Images\When_the_road_is_dry.png)
 
 ### When the road is wet
-![wet road](Readme\Images\UK_Images\When the road is wet.png)
+![wet road](Readme\Images\UK_Images\When_the_road_is_wet.png)
 
 ### When the weather is rainy
-![rainy season](Readme\Images\UK_Images\When the weather is rainy.png)
+![rainy season](Readme\Images\UK_Images\When_the_weather_is_rainy.png)
 
 ### When the weather is fine
-![fine season](Readme\Images\UK_Images\When weather is fine.png)
+![fine season](Readme\Images\UK_Images\When_weather_is_fine.png)
 
 ### Slicers
-![Weather cond slicer](Readme\Images\UK_Images\Weather Condition Slicer.png)
+![Weather cond slicer](Readme\Images\UK_Images\Weather_Condition_Slicer.png)
 
-![Road cond slicer](Readme\Images\UK_Images\Road Surface Slicer.png)
+![Road cond slicer](Readme\Images\UK_Images\Road_Surface_Slicer.png)
 
 ## Structure
 
@@ -58,45 +58,45 @@ Now let's explore the visualizations for the seven problem statements:
 
 ### 1. Primary KPI – Total Casualties and Total Accidents values for Current Year and YoY growth.
 
-![Total Casualties and Total Accidents](Readme\Images\UK_Images\Primary KPI 1 – Total Casualties and Total Accidents values for CY and YoY.png)
+![Total Casualties and Total Accidents](Readme\Images\UK_Images\KPI_1.png)
 
 This line chart provides an overview of the total casualties and total accidents for the current year, along with their year-over-year (YoY) growth. It helps to identify trends and understand the impact of road accidents.
 
 ### 2. Primary KPI – Total Casualties by Accident Severity for Current Year and YoY growth.
 
-![Total Casualties by Accident Severity](Readme\Images\UK_Images\Primary KPI 2 – Total Casualties by Accident Severity for CY and YoY.png)
+![Total Casualties by Accident Severity](Readme\Images\UK_Images\KPI_2.png)
 
 This stacked column chart illustrates the distribution of total casualties by accident severity for the current year. It also shows the YoY growth, providing insights into changes compared to the previous year.
 
 ### 3. Secondary KPI’s – Total Casualties with respect to vehicle type for Current Year.
 
-![Total Casualties by Vehicle Type](Readme\Images\UK_Images\Secondary KPI’s 3 – Total Casualties with respect to vehicle type for CY.png)
+![Total Casualties by Vehicle Type](Readme\Images\UK_Images\KPI_3_Vehicle_Type.png)
 
 This bar chart displays the total casualties categorized by vehicle type for the current year. It helps to identify which vehicle types are involved in the most accidents.
 
 ### 4. Monthly trend showing comparison of casualties for Current Year and Previous Year.
 
-![Monthly Casualties Comparison](Readme\Images\UK_Images\Monthly trend (kpi 4) showing comparison of casualties for CY and PY.png)
+![Monthly Casualties Comparison](Readme\Images\UK_Images\KPI_4.png)
 
 This line chart compares the monthly casualties for the current year and the previous year. It allows us to analyze the variations in casualties over time.
 
 ### 5. Casualties by Road Type for Current Year.
 
-![Casualties by Road Type](Readme\Images\UK_Images\Casualties by Road Type for CY (KPI 5).png)
+![Casualties by Road Type](Readme\Images\UK_Images\KPI_5.png)
 
 This donut chart presents the distribution of casualties by road type for the current year. It provides insights into which types of roads are associated with higher accident rates.
 
 ### 6. Current Year Casualties by Area/Location & by Day/Night.
 
-![Casualties by Area/Location](Readme\Images\UK_Images\CY Casualties by Area Location (KPI 6).png)
+![Casualties by Area/Location](Readme\Images\UK_Images\KPI_6_Area.png)
 
-![Casualties by Day/Night](Readme\Images\UK_Images\CY Casualties by Day Night (KPI 6).png)
+![Casualties by Day/Night](Readme\Images\UK_Images\KPI_6_Light.png)
 
 This stacked column chart showcases the current year's casualties categorized by area/location and further differentiated by day and night. It helps in understanding the patterns of accidents based on different areas and time periods.
 
 ### 7. Total Casualties and Total Accidents by Location.
 
-![Total Casualties and Total Accidents by Location](Readme\Images\UK_Images\Total Casualties and Total Accidents by Location (KPI 7).png)
+![Total Casualties and Total Accidents by Location](Readme\Images\UK_Images\KPI_7_Map.png)
 
 This map visualization displays the total casualties and total accidents by location in the UK. It provides a visual representation of the distribution of accidents and casualties across different geographic areas.
 
