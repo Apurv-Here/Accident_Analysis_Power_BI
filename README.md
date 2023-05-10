@@ -2,7 +2,7 @@
 
 This repository contains a Power BI project that focuses on analyzing road accidents in the UK. The project aims to provide valuable insights and visualizations to understand various aspects related to road accidents. The dataset used for this analysis includes information such as accident date, accident severity, vehicle type, road type, casualties, and other relevant attributes.
 
-![Main_bi_report]{Readme/Images/UK_Images/ROAD ACCIDENT ANALYSIS OF UK}
+![Main_bi_report]{Readme/Images/UK_Images/ROAD_ACCIDENT_ANALYSIS_OF_UK}
 
 ## Screenshots
 
